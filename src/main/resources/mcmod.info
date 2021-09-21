@@ -1,0 +1,16 @@
+[
+{
+  "modid": "timenotifier",
+  "name": "TimeNotifier",
+  "description": "Mod that informs player of toggled time sections.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Varijon"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
